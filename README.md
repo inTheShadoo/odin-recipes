@@ -1,2 +1,2 @@
-# odin-recipes
-theodinproject project: Recipes
+# Odin Recipes Project
+A simple recipe website made with html!
