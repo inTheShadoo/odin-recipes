@@ -41,24 +41,26 @@ img{
 }
 
 .main-title-box{
-    max-width: max-content;
+    width: fit-content;
+    height:fit-content;
     margin:50px auto;
     padding: 50px;
     border-radius: 10px;
     text-align: center;
     background-color: #3F4E4F;
+    font-size:45px;
+    overflow:hidden;
 }
 
 
 .recipe-menu li{
 margin-right: 25px;
-
-color:white;
+font-size: 20px;
 display: inline-flex;
 }
 
 .main-title-box img{
     padding: 15px;
-    width:400px;
-    height:400px;
+    width:50vh;
+    height:50vh;
 }
