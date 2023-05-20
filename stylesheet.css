@@ -1,0 +1,64 @@
+html{
+    background-color: #21292b;
+    color:#DCD7C9;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.title-box{
+    background-color:#4f6263;
+    border-radius: 20px 20px 0px 0px; 
+    padding: 15px;
+    margin: -25px;
+    margin-bottom:20px;
+    max-width: max-content;
+    text-align: center;
+
+}
+
+
+a{
+    color:#A27B5C;
+    text-align: center;
+}
+
+a:hover{
+    color:#b56c30;
+}
+
+.recipe-box{
+    background-color:#3F4E4F;
+    margin:25px;
+    padding: 25px;
+    border-radius: 20px;
+    max-width: max-content;
+    word-wrap: break-word;
+
+
+}
+
+img{
+    border-radius:3px;
+}
+
+.main-title-box{
+    max-width: max-content;
+    margin:50px auto;
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #3F4E4F;
+}
+
+
+.recipe-menu li{
+margin-right: 25px;
+
+color:white;
+display: inline-flex;
+}
+
+.main-title-box img{
+    padding: 15px;
+    width:400px;
+    height:400px;
+}
